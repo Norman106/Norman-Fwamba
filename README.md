@@ -1,5 +1,5 @@
 # Norman Khisa Fwamba
-![Profile Photo](https://media.licdn.com/dms/image/D4D03AQFuLQQle_0feg/profile-displayphoto-shrink_200_200/0/1704792968523?e=1710374400&v=beta&t=Wn2CeaunJNJW4pzeoVcLi9e58CD7JSRqP0Eo86DD-vk)
+
 
 **Software Engineer|DeVOPs Engineer**
 
@@ -44,8 +44,10 @@
 - 📞 +254742201184 
 - 📍 Nairobi, Kenya 
 - 📧 Email: [normankhisa106@gmail.com](mailto:normankhisa106@gmail.com)
-- 🐦 Twitter: [@normansmanza](https://twitter.com/normansmanza)
+- 🐦 Twitter: [@normansmanza](https://twitter.com/normansmanza)                
 - 📘 Facebook: [norman.khisa](https://www.facebook.com/norman.khisa)
 - 📸 Instagram: [norman_smanza](https://www.instagram.com/norman_smanza/)
 - 📱 WhatsApp: [+254742201184](https://wa.me/+254742201184)
+
+  ![Profile Photo](https://media.licdn.com/dms/image/D4D03AQFuLQQle_0feg/profile-displayphoto-shrink_200_200/0/1704792968523?e=1710374400&v=beta&t=Wn2CeaunJNJW4pzeoVcLi9e58CD7JSRqP0Eo86DD-vk) 
 
