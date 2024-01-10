@@ -1,7 +1,6 @@
-![Alt Text](https://i.imgur.com/1PpLsI9.jpg)
 # Norman Khisa Fwamba
 **Software Engineer|DeVOPs Engineer**
-📍 Nairobi, Kenya | 📞 +254742201184 | 📧 normankhisa106@gmail.com | 💼 [LinkedIn](LinkedIn_profile) | 🌐 [GitHub](GitHub_profile) | 📄 [Resume](Resume)
+📍 Nairobi, Kenya | 📞 +254742201184 | 📧 normankhisa106@gmail.com | 💼 [LinkedIn]([LinkedIn_profile](https://www.linkedin.com/in/norman-fwamba-7922251aa/)) | 🌐 [GitHub]([GitHub_profile](https://github.com/Norman106/Norman-Fwamba)) | 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Norman106)](https://github.com/anuraghazra/github-readme-stats)
 
