@@ -42,7 +42,7 @@
 - **Initiative:** A self-motivated individual with a proactive approach to challenges, demonstrating a willingness to take the initiative and drive projects forward.
 
   
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Norman106&theme=blue_navy_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Norman106&theme=blue_navy&show_icons=true)
 
 
 # Contact Me
