@@ -5,7 +5,9 @@
 
 ## 🎓 Education
 **Cooperative University of Kenya**
+
 *BSc Information Technology*
+
 *September 2020 - August 2023*
 
 ## 💼 Experience
