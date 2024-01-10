@@ -1,5 +1,5 @@
 # Norman Khisa Fwamba
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Norman106&repo=github-readme-stats)]
+
 
 **Software Engineer|DeVOPs Engineer**
 
