@@ -12,7 +12,9 @@
 
 ## 💼 Experience
 **Software Engineer**
+
 *Innova, Kileleshwa, Nairobi, Kenya*
+
 *August 2022 - Present*
 
 - **Load Testing Tools Development:** Led the development of two internal load testing tools specifically tailored for the UNIT TRUST APIs, incorporating advanced features for comprehensive performance evaluation.
