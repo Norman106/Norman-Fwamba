@@ -46,7 +46,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Norman106&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ffflabs)](https://github.com/anuraghazra/github-readme-stats)
+
 # Contact Me
 
 - 📞 +254742201184 
