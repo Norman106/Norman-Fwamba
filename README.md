@@ -1,4 +1,6 @@
 # Norman Khisa Fwamba
+![Profile Photo](https://media.licdn.com/dms/image/D4D03AQFuLQQle_0feg/profile-displayphoto-shrink_200_200/0/1704792968523?e=1710374400&v=beta&t=Wn2CeaunJNJW4pzeoVcLi9e58CD7JSRqP0Eo86DD-vk)
+
 **Software Engineer|DeVOPs Engineer**
 
 ## 🎓 Education
