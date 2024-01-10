@@ -13,7 +13,8 @@
 ## 💼 Experience
 **Software Engineer**
 
-*Innova, Kileleshwa, Nairobi, Kenya*
+[Innova Limited](https://innova.co.ke), Kileleshwa, Nairobi, Kenya
+
 
 *August 2022 - Present*
 
