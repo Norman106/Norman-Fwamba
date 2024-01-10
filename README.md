@@ -1,14 +1,5 @@
 # Norman Khisa Fwamba
 **Software Engineer|DeVOPs Engineer**
-📍 Nairobi, Kenya | 📞 +254742201184 |
-- 📧 Email: [normankhisa106@gmail.com](mailto:normankhisa106@gmail.com)
-- 🐦 Twitter: [@normansmanza](https://twitter.com/normansmanza)
-- 📘 Facebook: [norman.khisa](https://www.facebook.com/norman.khisa)
-- 📸 Instagram: [norman_smanza](https://www.instagram.com/norman_smanza/)
-- 📱 WhatsApp: [+254742201184](https://wa.me/+254742201184)
-
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Norman106)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 🎓 Education
 **Cooperative University of Kenya**
@@ -42,3 +33,15 @@
 - **Continuous Learning:** Display a passion for continuous learning, actively staying abreast of the latest industry trends, technologies, and best practices to enhance professional development.
 - **Problem Solver:** Proven ability to analyze and solve complex problems, contributing to efficient and innovative solutions in software development.
 - **Initiative:** A self-motivated individual with a proactive approach to challenges, demonstrating a willingness to take the initiative and drive projects forward.
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Norman106)](https://github.com/anuraghazra/github-readme-stats)
+# Contact Me
+
+- 📞 +254742201184 
+- 📍 Nairobi, Kenya 
+- 📧 Email: [normankhisa106@gmail.com](mailto:normankhisa106@gmail.com)
+- 🐦 Twitter: [@normansmanza](https://twitter.com/normansmanza)
+- 📘 Facebook: [norman.khisa](https://www.facebook.com/norman.khisa)
+- 📸 Instagram: [norman_smanza](https://www.instagram.com/norman_smanza/)
+- 📱 WhatsApp: [+254742201184](https://wa.me/+254742201184)
+
