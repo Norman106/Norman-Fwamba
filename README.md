@@ -30,7 +30,7 @@
 ## 🛠️ Skills
 - **Languages:** Proficient in HTML5, CSS3, Python, JavaScript (ES6), SQL, and TypeScript.
 - **Frameworks:** Experienced with Numpy, Pandas, Flask, FastAPI, Bootstrap5, Pytest, Django, and Angular for efficient and robust application development.
-- **Tools and Others:** Well-versed in version control using Git, GitHub, and GitLab. Experienced in containerization with Docker. Familiar with performance testing tools like K6 and NBomber. Skilled in deployment using Netlify. Proficient in working with MySQL, SQLite, and PostgreSQL databases. Experienced in API testing using tools like Postman and Insomnia.```
+- **Tools and Others:** Well-versed in version control using Git, GitHub, and GitLab. Experienced in containerization with Docker. Familiar with performance testing tools like K6 and NBomber. Skilled in deployment using Netlify & Github pages. Proficient in working with MySQL, SQLite, and PostgreSQL databases. Experienced in API testing using tools like Postman and Insomnia.```
 
 
 ## 🌟 Highlights
